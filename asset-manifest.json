@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.4d175918.css",
+    "main.js": "/project/static/js/main.a20d8782.js",
+    "static/media/pizza123.jpg": "/project/static/media/pizza123.0c1bfcff8c8fcf98ae85.jpg",
+    "static/media/PBCP.jpg": "/project/static/media/PBCP.dc7ac9ba716a74d70fdc.jpg",
+    "static/media/CFP.jpg": "/project/static/media/CFP.1adb1dc446b4dd3aac53.jpg",
+    "static/media/FVP.jpg": "/project/static/media/FVP.de03b297b230bd703565.jpg",
+    "static/media/logo.png": "/project/static/media/logo.fcdc67e6b331cba63735.png",
+    "static/media/pizza5.jpg": "/project/static/media/pizza5.9d38e9aaafb9a90dcf83.jpg",
+    "static/media/pizza1.jpeg": "/project/static/media/pizza1.5929d042ad9958f593cd.jpeg",
+    "static/media/Cheese.jpg": "/project/static/media/Cheese.036b855445c85b7037af.jpg",
+    "static/media/CDP.jpg": "/project/static/media/CDP.5931bb15e1ebf5598581.jpg",
+    "static/media/Pepperoni.jpg": "/project/static/media/Pepperoni.2a8937e74dce4cfc6fc4.jpg",
+    "static/media/ICT.jpg": "/project/static/media/ICT.afcc159ef36c7e889bbe.jpg",
+    "static/media/FP.jpg": "/project/static/media/FP.c036ba743c75478298b0.jpg",
+    "static/media/PPP.jpg": "/project/static/media/PPP.30f3a2cb2de7ab540d2d.jpg",
+    "index.html": "/project/index.html",
+    "main.4d175918.css.map": "/project/static/css/main.4d175918.css.map",
+    "main.a20d8782.js.map": "/project/static/js/main.a20d8782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d175918.css",
+    "static/js/main.a20d8782.js"
+  ]
+}
